@@ -1,0 +1,47 @@
+.header{
+color:#ffffff;
+display: flex ;
+flex-direction: column;
+align-items: center;
+
+}
+
+.header__logo{
+    margin-top: 10px;
+    padding-bottom: 92px;
+    max-width: 300px;
+}
+
+.header__content{
+display: flex;
+flex-direction: column;
+align-items: center;
+    
+}
+
+.header__title{
+    max-width: 720px;
+    max-height: 200px;
+    font-family: Inter;
+    font-weight: 900;
+    font-size: 96px;
+    line-height: 100px; 
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+.header__subtitle{ 
+max-width: 720px;
+max-height: 72px;
+font-weight: 400;
+font-size: 30px;
+line-height: 36px;
+text-align: center;
+}
+
+.header__image{
+    max-width: 984px;
+    max-height: 615px;
+    
+
+}

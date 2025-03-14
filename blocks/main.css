@@ -1,0 +1,39 @@
+
+
+.main{
+    display: flex;
+    flex-direction: column;
+    max-width: 990px;
+    margin: 92px auto; 
+}
+
+.main__title{
+    max-width: 830px;
+    padi
+
+    font-family:;
+    font-weight: 900;
+    font-size: 54px;
+    line-height: 58px;
+    letter-spacing: 0%;
+
+}
+
+.main__paragraph{
+    width: 738px; 
+}
+
+.main__quote{
+
+}
+
+.main__content{
+    display: flex;
+    flex-direction: column;
+    max-width: 990px;
+    margin: 92px auto; 
+}
+
+.main__content-paragraph{
+    
+}
