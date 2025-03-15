@@ -75,5 +75,31 @@ max-height: 182px;
 
 @media screen and (min-width: 320px) and (max-width: 544px){
 
-  
+
+  .main__title{
+    max-width: 707px;
+    font-size: 32px;
+    line-height: 49px;
+
+  }
+
+  .main__paragraph{
+    max-width: 288px;
+    font-size: 24px;
+    line-height: 34px;
+    }
+
+  .main__quote{
+      max-width: 288px;
+      max-height: 34px;
+      font-size: 24px;
+      line-height: 34px;
+      }
+
+  .main__paragraph_size-s{
+      max-width: 288px;
+      max-height: 442px;
+      font-size: 16px;
+      }
+
 }
