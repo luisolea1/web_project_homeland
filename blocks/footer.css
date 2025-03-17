@@ -9,7 +9,7 @@
 .footer__copyright{
     font-size: 14px;
     line-height: 16px;
-    letter-spacing: 0%;
+    letter-spacing: normal;
     margin: 0 auto 24px;
 }
 

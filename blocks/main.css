@@ -12,7 +12,7 @@
     font-family:"inter-black", sans-serif;
     font-size: 54px;
     line-height: 58px;
-    letter-spacing: 0%;
+
 }
 
 .main__paragraph{
@@ -28,7 +28,7 @@
     font-size: 24px;
     line-height: 34px;
     margin: 0;
-    letter-spacing: 0%;
+
 }
 
 .main__paragraph_size-s{
@@ -42,7 +42,7 @@
 .main{
   max-width: 720px;
   max-height: 573px;
-  letter-spacing: 0%;
+  
 }
 
 .main__title{

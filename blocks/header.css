@@ -25,7 +25,6 @@ align-items: center;
     font-family: "inter-black", sans-serif;
     font-size: 96px;
     line-height: 100px;
-    letter-spacing: 0%;
     text-align: center;
     margin:0 auto;
 }
@@ -36,7 +35,7 @@ font-size: 30px;
 line-height: 36px;
 text-align: center;
 margin: 32px auto 64px;
-letter-spacing: 0%;
+
 }
 
 .header__image{
