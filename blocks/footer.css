@@ -10,7 +10,7 @@
     font-size: 14px;
     line-height: 16px;
     letter-spacing: normal;
-    margin: 0 auto 24px;
+    margin:  0 auto 24px;
 }
 
 @media screen and (min-width: 545px) and (max-width: 1024px){
@@ -24,5 +24,15 @@
     font-size: 14px;
     line-height: 16px;
   }
+
+}
+
+@media screen and (min-width: 320px) and (max-width: 544px) {
+
+  .footer__copyright{
+    line-height: 14px;
+    margin:  64px auto 24px;
+  }
+
 
 }
