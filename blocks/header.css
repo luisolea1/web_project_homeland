@@ -38,8 +38,13 @@ margin: 32px auto 64px;
 
 }
 
+.header__content-image{
+max-width: 984px;
+margin: auto;
+}
+
 .header__image{
-    max-width: 984px;
+max-width: 100%;
 
 }
 
