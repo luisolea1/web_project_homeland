@@ -95,5 +95,6 @@ box-shadow: 10px 10px 25px 0px #00000080;
   .header__subtitle{
     font-size: 16px;
     line-height: 20px;
+    margin: 16px 16px 40px;
   }
 }
