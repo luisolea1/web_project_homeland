@@ -41,11 +41,11 @@
 
 .main{
   max-width: 720px;
+  margin: 92px 24px 64px;
 }
 
 .main__title{
   max-width: 707px;
-  max-height: 147px;
   font-size: 45px;
   line-height: 49px;
 
@@ -53,21 +53,18 @@
 
 .main__paragraph{
 max-width: 720px;
-max-height: 136px;
 font-size: 24px;
-line-height: 34px;
+line-height: 1.6;
 }
 
 .main__quote{
 max-width: 720px;
-max-height: 34px;
 font-size: 24px;
 line-height: 34px;
 }
 
 .main__paragraph_size-s{
-max-width: 720px;
-max-height: 182px;
+max-width: 100%;
 }
 }
 
@@ -79,14 +76,14 @@ max-height: 182px;
   }
 
   .main__title{
-    max-width: 707px;
+    max-width: 288px;
     font-size: 32px;
     line-height: 49px;
 
   }
 
   .main__paragraph{
-    max-width: 288px;
+    max-width: 100%;
     font-size: 24px;
     line-height: 34px;
     }
@@ -99,7 +96,7 @@ max-height: 182px;
       }
 
   .main__paragraph_size-s{
-      max-width: 288px;
+      max-width: 100%;
       font-size: 16px;
       }
 
