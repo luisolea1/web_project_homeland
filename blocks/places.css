@@ -59,13 +59,13 @@
   grid-column: 2/3;
   grid-row: 2/4 ;
   width: 484px;
-
 }
 
 .places__paragraph{
   font-size: 18px;
   line-height: 163%;
   margin: 0 auto 25px;
+
 }
 
 .places__button{
