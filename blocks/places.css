@@ -23,7 +23,7 @@
 }
 
 .places__website{
-  padding-top: 90px;
+  align-self: end;
 }
 
 .places__url-heading{
@@ -105,11 +105,15 @@
   .places__title {
     font-size: 32px;
     line-height: 35px;
+    align-self: baseline;
+    margin-left: 16px;
 
   }
 
   .places__website{
     padding-top: 0;
+    align-self: baseline;
+    margin-left: 16px;
   }
 
   .places__image{
